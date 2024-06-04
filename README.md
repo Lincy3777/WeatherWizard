@@ -11,5 +11,5 @@ Python: The main programming language.<br>
 Tkinter: For creating the graphical user interface.<br>
 Requests: For fetching data from the weather API.<br>
 
-Workflow
+Workflow<br>
 The user enters a city name in the search bar.The application fetches and displays the current weather data for the specified location. The app sends a request to the weather API to get the weather data. The data is then processed and displayed on the GUI.
