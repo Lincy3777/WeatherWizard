@@ -6,7 +6,7 @@ Real-time Weather Data: Displays temperature, humidity, Time, and weather condit
 Search by Location: Allows users to search for weather information by city name.
 User-friendly Interface: Uses Tkinter for a clean and interactive GUI. 
 
-The following are the technologies Used: \n
+The following are the technologies Used: <br>
 Python: The main programming language.
 Tkinter: For creating the graphical user interface.
 Requests: For fetching data from the weather API.
